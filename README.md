@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/36/99/8c/36998c5e57eb083202f091b2783fdeb1.gif"  />
-</div>
 
 ###
 
