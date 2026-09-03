@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first lines of code — now turning them into solutions<br><br>📚 Focused on Artificial Intelligence and Software Engineering, with hands-on experience in CNNs, neural networks, deep learning, and SVMs using Python<br><br>💻 Experienced in developing real-world systems, working with backend, databases, and scalable solutions, with a strong interest in Java and system architecture<br><br>🎯 Goal: Build intelligent and scalable systems that solve real-world problems<br><br>🎮 Fun fact: I enjoy gaming, coding, and solving complex problems — sometimes all at once</p>
+<p align="left">✨ Creating bugs since my first lines of code — now turning them into solutions<br><br>📚 Focused on Artificial Intelligence, Computer Vision, Machine Learning and Software Engineering, with hands-on experience in CNNs, neural networks, deep learning, and SVMs using Python<br><br>💻 Experienced in developing real-world systems, working with backend, databases, and scalable solutions, with a strong interest in Java and system architecture<br><br>🎯 Goal: Build intelligent and scalable systems that solve real-world problems<br><br>🎮 Fun fact: I enjoy gaming, coding, and solving complex problems — sometimes all at once</p>
 
 ###
 
